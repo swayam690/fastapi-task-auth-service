@@ -190,3 +190,4 @@ curl -X GET http://localhost:8000/tasks
 ## 🛡️ License
 
 This project is licensed under the [MIT License](LICENSE).
+
